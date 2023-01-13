@@ -1,0 +1,3 @@
+Turns a dictionary into a json string... which apparently print(dictionary) does as well... kinda...
+
+
